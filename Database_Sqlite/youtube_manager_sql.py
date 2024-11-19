@@ -73,4 +73,3 @@ if __name__ == '__main__':
     main()
 
 
-# https://www.youtube.com/watch?v=SWPJwE0TVXw&list=PLu71SKxNbfoBsMugTFALhdLlZ5VOqCg2s&index=24
